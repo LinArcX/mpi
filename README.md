@@ -1,5 +1,3 @@
-![Language](https://img.shields.io/github/languages/top/LinArcX/mpi.svg) ![RepoSize](https://img.shields.io/github/repo-size/LinArcX/mpi.svg)
-
 ## Installation
 Just copy `mpi.vim` into your `plugin` directory.
 
