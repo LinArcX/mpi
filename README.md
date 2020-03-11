@@ -1,3 +1,9 @@
+<h1 align="center">
+	<img width="900" src="./screenshot.png" alt="mpi">
+    <br/>
+    <h4 align="center">Using mpi in my customized tabline called: mptbl</h4>
+</h1>
+
 ## Installation
 Just copy `mpi.vim` into your `plugin` directory.
 
