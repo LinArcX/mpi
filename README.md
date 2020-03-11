@@ -24,5 +24,8 @@ let g:mpi#exact_matches = {
 \}
 ```
 
+Filetypes are here:
+`/usr/share/nvim/runtime/filetype.vim`
+
 ## License
 ![License](https://img.shields.io/github/license/LinArcX/mpi.svg)
