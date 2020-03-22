@@ -1,7 +1,7 @@
 <h1 align="center">
 	<img width="900" src="./screenshot.png" alt="mpi">
     <br/>
-    <h4 align="center">Using mpi in my customized tabline called: mptbl</h4>
+    <h4 align="center">Using mpi + <a href="https://github.com/LinArcX/mpsl">mpsl</a> + <a href="https://github.com/LinArcX/mpbtl">mpbtl</a></h4>
 </h1>
 
 ## Installation
