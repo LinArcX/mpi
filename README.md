@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="900" src="./screenshot.png" alt="mpi">
+	<img width="900" src="assets/screenshot.png" alt="mpi">
     <br/>
     <h4 align="center">Using mpi + <a href="https://github.com/LinArcX/mpsl">mpsl</a> + <a href="https://github.com/LinArcX/mpbtl">mpbtl</a></h4>
 </h1>
@@ -32,6 +32,10 @@ let g:mpi#exact_matches = {
 
 Filetypes are here:
 `/usr/share/nvim/runtime/filetype.vim`
+
+## Donate
+- Monero: `48VdRG9BNePEcrUr6Vx6sJeVz6EefGq5e2F5S9YV2eJtd5uAwjJ7Afn6YeVTWsw6XGS6mXueLywEea3fBPztUbre2Lhia7e`
+<img src="assets/monero.png" align="center" />
 
 ## License
 ![License](https://img.shields.io/github/license/LinArcX/mpi.svg)
