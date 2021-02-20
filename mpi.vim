@@ -134,7 +134,7 @@ let g:mpi#exact_matches = {
 \}
 
 function! mpi#get(bufname) abort
-    let ext = fnamemodify(expand(a:bufname), ':e')
+    let ext = fnamemodify(fnameescape(a:bufname), ':e')
     if empty(ext)
         let l:has_key = has_key(g:mpi#exact_matches, a:bufname)
         if l:has_key
